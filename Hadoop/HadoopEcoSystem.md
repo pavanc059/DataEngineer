@@ -121,3 +121,7 @@ The NameNode makes all decisions regarding replication of blocks. It periodicall
 #### **Accessibility** ####
 
 #### **Space Reclamation** ####
+
+----------
+
+### MapReduce ###
